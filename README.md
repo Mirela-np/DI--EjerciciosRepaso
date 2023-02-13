@@ -1,2 +1,1 @@
-# DI--Tabla-de-multiplicar
-Interfaz tabla de mutiplicar 
+Ejercicios repaso Desarrollo de Interfaces
